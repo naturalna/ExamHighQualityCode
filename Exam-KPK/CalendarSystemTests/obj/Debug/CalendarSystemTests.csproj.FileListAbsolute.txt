@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\CalendarSystemTests\bin\Debug\CalendarSystemTests.dll
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\CalendarSystemTests\bin\Debug\CalendarSystemTests.pdb
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\CalendarSystemTests\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\CalendarSystemTests\bin\Debug\PowerCollections.dll
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\CalendarSystemTests\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\CalendarSystemTests\obj\Debug\CalendarSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\CalendarSystemTests\obj\Debug\CalendarSystemTests.dll
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\CalendarSystemTests\obj\Debug\CalendarSystemTests.pdb
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\CalendarSystemTests\bin\Debug\CalendarSystemTests.dll
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\CalendarSystemTests\bin\Debug\CalendarSystemTests.pdb
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\CalendarSystemTests\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\CalendarSystemTests\bin\Debug\PowerCollections.dll
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\CalendarSystemTests\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\CalendarSystemTests\obj\Debug\CalendarSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\CalendarSystemTests\obj\Debug\CalendarSystemTests.dll
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\CalendarSystemTests\obj\Debug\CalendarSystemTests.pdb

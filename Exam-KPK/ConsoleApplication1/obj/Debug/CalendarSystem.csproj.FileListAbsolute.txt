@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\ConsoleApplication1\obj\Debug\CalendarSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\ConsoleApplication1\obj\Debug\CalendarSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\teleric\KachestwenKod\izpit\Exam-KPK\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
